@@ -1,1 +1,16 @@
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+---
+layout:     post
+title:      Test
+subtitle:   Test
+date:       2019-03-21
+author:     Li Zichao
+header-img: img/shannon.jpg
+catalog: true
+tags:
+    - Data Analysis
+---
+# Test
+This is a test for inserting a mathematical fomular into markdown:
+$$Pr(x)=\frac(e^{\beta})(1+e^{\beta})$$
+and we can also insert fomular like \\x^2=y^2+z^2\\ inside a sentence.
