@@ -1,4 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ---
 layout:     post
 title:      Test
@@ -8,8 +7,9 @@ author:     Li Zichao
 header-img: img/shannon.jpg
 catalog: true
 tags:
-    - Data Analysis
+    - Test
 ---
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # Test
 This is a test for inserting a mathematical fomular into markdown:
 $$Pr(x)=\frac(e^{\beta})(1+e^{\beta})$$
