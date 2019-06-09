@@ -9,20 +9,21 @@ catalog: true
 tags:
     - Data Analysis
 ---
+#  A review of some debates between the Structural and Experimental schools
 
-1.Introduction		
-====================================
+## Introduction		
+
 
 In the challenge "Causal Inference 2", we are required to Summarize the arguments between the Structural and Experimental approachs in empirical works made by the various authors in the following series of papers in JEP Vol. 24 and views on the same topic by Rust (2014). We had spent two weeks in going through these papers and reached some common thoughts to their arguments. In section 2, we would give a brief summary for these five papers. In section 3, we would share some thoughts raised in our recent discussion about these paper.
 
 
-2.Summary to these papers		
-====================================
+## Summary to these papers		
+
 
 The first four paper is a series of paper in JEP Vol. 24. The arugment is brought by Angrist and Pischke, chasing by papers from Keane, Sims, the two who are strongly disagree with their appeal, Nevo and Whinston holding a relatively netural opinion with their argument.
 
-2.1 Taking the Con out of Econometrics (Angrist and Pischke, 2010) 
-------------------------------------
+### Taking the Con out of Econometrics (Angrist and Pischke, 2010) 
+
 
 In this paper, they begin with the review of some concerns on the quality and credibility in data analysis expressed by several economists in last century, for example, the concern by Leamer (1983) towards less robustness in contemporal works, like Ehrlich's study (1983) about the deterrent effect of capital punishments, due to the variable result under different assumptions on functional form and addition controls. Moreover, Ehrlich used instrumental variables but did not attach some explainations, which makes his work less reliable. They also gives some other examples like The Education Production Function, Coleman et al. (1966). All of them are considered to be in a bad research design.
 
@@ -39,8 +40,7 @@ After that, they criticize the less use of experiental method in macroeconomics 
 Finally, they responds to the concern of experimental designs is result-oriented instead of trying to solve more meaningful problems. They think that the concern with external validity could be solved by accumulating empirical evidence. Moreover, the design-based approach has wide applicability to be complement with good economic questions. They give some examples to refute the claim that experimental works narrow policy effect.
 
 
-2.2 A Structural Perspective on the Experimentalist School (Keane, 2010) 
-------------------------------------
+### A Structural Perspective on the Experimentalist School (Keane, 2010) 
 
 In this paper, Keane disagrees with Angrist and Pischke's idea about experimental method, which regards it as a panecea.
 
@@ -51,8 +51,7 @@ Then he give a opposite view to Angrist and Pischke's appeal to utilizing experi
 After that, he gives the examples how good data could benefit structural modeling and how could economic theory be useful in RCT. Finally, he emphasizes the external validation by sharing how he works with structural methods.
 
 
-2.3 But Economics is not an Experimental Science (Sims, 2010) 
-------------------------------------
+### But Economics is not an Experimental Science (Sims, 2010) 
 
 In this paper, Sims citicizes with Angrist and Pischke's idea. He thinks that these narrow, overly simplifed approaches to data analysis would lead to misunderstanding.
 
@@ -63,9 +62,7 @@ Then he raises some advance in macroeconometrics considered to be ignore by Angr
 At last, he goes back to the research of class size and give two concerns. The first one is whether the narrow constrainted result on the class size could be useful for policy makers. The second one is that the result could be variable if there is a nonlinear relationship between variables.
 
 
-2.4 Taking the Dogma out of Econometrics: Structural Modeling and Credible Inference (Nevo and Whinston, 2010) 
-------------------------------------
-
+### Taking the Dogma out of Econometrics: Structural Modeling and Credible Inference (Nevo and Whinston, 2010) 
 
 In this paper, Nevo and Whinston give their opinion that the best empirical work should be in combining careful design, credible inference, robust estimation methods and thoughtful modeling, no matter whether it is a experimental or a structural one.
 
@@ -75,8 +72,7 @@ Then, Nevo and Whinston evaluate the two approach by retrospective estimates and
 
 
 
-2.5 The Limits of Inference with Theory: A Review of Wolpin(2013) (Rust, 2014) 
-------------------------------------
+### The Limits of Inference with Theory: A Review of Wolpin(2013) (Rust, 2014) 
 
 It is a complement with Wolpin's previous work. In that one, Wolpin emphasized the need of theory in the empirical study. To balance, Rust raises some limits of the structural works.
 
@@ -93,8 +89,7 @@ It is a complement with Wolpin's previous work. In that one, Wolpin emphasized t
 But they have the same idea that experimentists and theorists should work together rather than attack towards each other's method. Rust gives some examples in other fields to explain how could treat the relationship between theory and experiment. And he states how could experiment and theory could contribute to each other. For example, experiments can help structural economentricians develop better models and discard inappropriate assumptions while the structural models could guide the experiment design.
 
 
-3.Our opinion		
-====================================
+## Our opinion		
 
 After discussion, we have some common thought to these paper.
 
@@ -104,8 +99,7 @@ After discussion, we have some common thought to these paper.
 
 
 
-Reference		
-====================================
+## Reference		
 
 [1]Angrist, J., & Pischke, J. (2010). The Credibility Revolution in Empirical Economics: How Better Research Design is Taking the Con out of Econometrics. The Journal of Economic Perspectives, 24(2), 3-30. Retrieved from http://www.jstor.org/stable/25703496
 
