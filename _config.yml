@@ -1,29 +1,29 @@
 # Site settings
 title: LZC Blog
-SEOTitle: 黎子超的博客 | LZC Blog
-header-img: img/zjc2.jpg
-email: lzc563236@gmail.com
-description: "男儿心似铁，纵死亦千钧"
-keyword: "黎子超，厦门大学"
-url: "http://lzc563236.github.io"          # your host, for absolute URL
+SEOTitle: 卜令天的博客 | BLT Blog
+#header-img: 
+#email: 
+description: "For DATA SCIENCE"
+keyword: "卜令天 厦门大学"
+url: "http://LingtianBu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/lzc563236/lzc563236.github.io.git" # you code repository
+github_repo: "https://github.com/LingtianBu/LingtianBu.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "战术目镜滚起来啦！"
-sidebar-avatar: /img/the_elder.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: false                         # whether or not using Sidebar.
+#sidebar-about-description: ""
+#sidebar-avatar: /img/the_elder.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     衍广
-zhihu_username:     黎衍广
-github_username:    lzc563236
+weibo_username:     BULINGTIAN-
+github_username:    LingtianBu
+#zhihu_username:
 #facebook_username:  
 #jianshu_username:   
-#twitter_username:   qiubaiying
+#twitter_username:   
 
 
 
@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-friends: [
+#friends: [
     {
         title: "LXL",
         href: "http://xiaoluli.github.io"
