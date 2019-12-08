@@ -1,5 +1,5 @@
 # Site settings
-title: LZC Blog
+title: BLT Blog
 SEOTitle: 卜令天的博客 | BLT Blog
 #header-img: 
 #email: 
@@ -10,9 +10,9 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/LingtianBu/LingtianBu.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: false                         # whether or not using Sidebar.
-#sidebar-about-description: ""
-#sidebar-avatar: /img/the_elder.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: false     # whether or not using Sidebar.
+sidebar-about-description: ""
+sidebar-avatar: /img/the_elder.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
